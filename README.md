@@ -1,4 +1,4 @@
-# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
+# A simple image classification web app based on [fast.ai](https://www.fast.ai) library
 
 This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
 
