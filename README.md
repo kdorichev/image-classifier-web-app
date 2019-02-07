@@ -2,4 +2,4 @@
 
 This app uses a trained neural network model (resnet-34) and can classify images of cars, busses and motobikes.
 
-![Classifier example](classifier-example.png "Logo Title Text 1")
+![Classifier example](classifier-example.png "This is an example how the app works")
